@@ -131,9 +131,9 @@ with col1:
     st.markdown("<div class='sub-header'>Individuals and Organizations</div>", unsafe_allow_html=True)
     st.markdown("""
     <div class='section'>
-    - Class Manager at Dibimbing: For their excellent management and support.<br>
-    - Mentors: For their invaluable guidance and direction.<br>
-    - Classmates at Dibimbing DS24: For their camaraderie and support.<br>
+    - Mentors: Mas Kurnia Anwar Ra'if and others for their invaluable guidance and direction.<br>
+    - Junyi Academy: Providers of the massive open-source student activity data.
+    - Inspiration: Nicholas Hilton for his extensive studies of Elo Rating on football.
     - Dibimbing.id: For providing the platform and resources necessary for our growth and success.
     </div>
     """, unsafe_allow_html=True)
